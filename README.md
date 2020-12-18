@@ -2,7 +2,7 @@
 
 
 
-
+<code>
 #OE    #
 				CalculoAforo(area, [numeroPersonas]) 
 				BEGIN
@@ -27,7 +27,7 @@
 		17		END
 
 
-
+</code>
 
 
 
